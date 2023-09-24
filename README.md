@@ -95,3 +95,5 @@ and run the app for ios or android
 ```bash
 npm run ios
 ```
+#### Screenshot
+<img src="https://github.com/mohsen-ghafouri/rn-cljs-learning/assets/71308738/1cc9aec4-1af6-4b64-b5f3-3035a0c7dc80" width="375px"/>
