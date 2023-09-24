@@ -64,3 +64,8 @@ yarn-error.log
 
 # testing
 /coverage
+.shadow-cljs
+.bundle
+.cpcache
+app
+/.shadow-cljs/
